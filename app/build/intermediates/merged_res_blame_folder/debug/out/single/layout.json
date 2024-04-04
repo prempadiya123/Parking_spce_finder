@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-mergeDebugResources-27:/layout/activity_signup_otp.xml",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/layout/activity_signup_otp.xml"
+    },
+    {
+        "merged": "com.example.gj3park.app-mergeDebugResources-27:/layout/activity_dashboard.xml",
+        "source": "com.example.gj3park.app-main-30:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-mergeDebugResources-27:/layout/activity_thanks1.xml",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/layout/activity_thanks1.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-mergeDebugResources-27:/layout/activity_sighup_profile.xml",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/layout/activity_sighup_profile.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-mergeDebugResources-27:/layout/activity_welcome.xml",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-mergeDebugResources-27:/layout/activity_splash.xml",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-mergeDebugResources-27:/layout/fragment_home.xml",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-mergeDebugResources-27:/layout/activity_main.xml",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-mergeDebugResources-27:/layout/activity_dashboard.xml",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-mergeDebugResources-27:/layout/fragment_search.xml",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-mergeDebugResources-27:/layout/activity_signin.xml",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/layout/activity_signin.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-mergeDebugResources-27:/layout/activity_thankyou.xml",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/layout/activity_thankyou.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-mergeDebugResources-27:/layout/fragment_location.xml",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/layout/fragment_location.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-mergeDebugResources-27:/layout/activity_signup.xml",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-mergeDebugResources-27:/layout/fragment_profile.xml",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/layout/fragment_profile.xml"
+    }
+]

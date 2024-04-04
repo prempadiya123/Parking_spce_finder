@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/layout_fragment_search.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/xml_backup_rules.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/layout_fragment_profile.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/layout_activity_welcome.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/drawable_baseline_arrow_forward_24.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/drawable/baseline_arrow_forward_24.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/menu_bottom_nav_menu.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/drawable_baseline_share_24.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/drawable/baseline_share_24.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/layout_activity_signin.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/layout/activity_signin.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/drawable_baseline_error_24.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/drawable/baseline_error_24.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/drawable_logo.png.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/drawable/logo.png"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/drawable_buttonshape.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/drawable/buttonshape.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/drawable_baseline_logout_24.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/drawable/baseline_logout_24.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/drawable_round_home_24.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/drawable/round_home_24.xml"
+    },
+    {
+        "merged": "com.example.gj3park.app-merged_res-28:/layout_activity_dashboard.xml.flat",
+        "source": "com.example.gj3park.app-main-30:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/font_poppins_medium.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/font/poppins_medium.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/drawable_baseline_location_on_24.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/drawable/baseline_location_on_24.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/layout_activity_signup.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/layout_activity_thanks1.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/layout/activity_thanks1.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/layout_activity_signup_otp.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/layout/activity_signup_otp.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/drawable_baseline_search_24.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/drawable/baseline_search_24.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/drawable_baseline_arrow_forward_gray_24.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/drawable/baseline_arrow_forward_gray_24.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/drawable_baseline_account_circle_24.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/drawable/baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/layout_fragment_home.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/layout_activity_thankyou.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/layout/activity_thankyou.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/drawable_flag_for_flag_india_svgrepo_com.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/drawable/flag_for_flag_india_svgrepo_com.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/layout_activity_dashboard.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/drawable_gradiant_color.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/drawable/gradiant_color.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-pngs-24:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/color_icon_colors.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/color/icon_colors.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/layout_activity_splash.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/drawable_custom_shap.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/drawable/custom_shap.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/drawable_round_settings_24.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/drawable/round_settings_24.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/drawable_main.png.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/drawable/main.png"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/drawable-v24_india.png.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/drawable-v24/india.png"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/drawable_welcome.png.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/drawable/welcome.png"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/drawable_img.png.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/drawable/img.png"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/layout_activity_sighup_profile.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/layout/activity_sighup_profile.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/drawable_editext.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/drawable/editext.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/drawable_baseline_close_24.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/drawable/baseline_close_24.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-merged_res-28:/layout_fragment_location.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/8.0/com.example.gj3park.app-main-30:/layout/fragment_location.xml"
+    }
+]
