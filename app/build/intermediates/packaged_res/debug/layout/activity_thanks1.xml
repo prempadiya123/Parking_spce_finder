@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".THANKS1">
+
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="400dp"
+            android:layout_height="39dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="2dp"
+            android:layout_marginTop="32dp"
+            android:layout_marginEnd="3dp"
+            android:fontFamily="@font/poppins_medium"
+            android:paddingStart="5dp"
+            android:text="@string/thnks"
+            android:textColor="#303030"
+            android:textSize="24sp"
+            app:layout_constraintBottom_toTopOf="@+id/imageView"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.089999974"
+            tools:ignore="MissingConstraints,RtlSymmetry,TextSizeCheck" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="407dp"
+            android:layout_height="61dp"
+            android:layout_alignParentBottom="true"
+            android:fontFamily="@font/poppins_medium"
+            android:paddingStart="20dp"
+            android:text="@string/thanks1"
+            android:textColor="#303030"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.25"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView1"
+            app:layout_constraintVertical_bias="0.0"
+            tools:ignore="MissingConstraints,RtlSymmetry,TextSizeCheck" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="394dp"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/welcome"
+            android:contentDescription="TODO"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:ignore="ContentDescription,HardcodedText,ImageContrastCheck" />
+
+        <Button
+            android:id="@+id/signin"
+            android:layout_width="372dp"
+            android:layout_height="70dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="40dp"
+            android:layout_marginEnd="16dp"
+            android:background="@drawable/buttonshape"
+            android:drawableEnd="@drawable/baseline_arrow_forward_24"
+            android:drawingCacheQuality="auto"
+            android:gravity="center"
+            android:padding="10dp"
+            android:paddingStart="40dp"
+            android:paddingTop="20dp"
+            android:paddingEnd="30dp"
+            android:shadowColor="#979797"
+            android:shadowDx="2"
+            android:shadowDy="2"
+            android:shadowRadius="3"
+            android:text="@string/go_to_profile"
+            android:textAlignment="textStart"
+            android:textAllCaps="false"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.589"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView"
+            app:layout_constraintVertical_bias="0.060000002"
+            tools:ignore="RtlCompat,TextSizeCheck,VisualLintButtonSize,TextContrastCheck" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
