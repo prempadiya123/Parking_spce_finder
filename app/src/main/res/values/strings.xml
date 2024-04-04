@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">gj3park+</string>
+    <string name="welcome">Hello, nice to meet you!</string>
+    <string name="welcome2"><b>   Get a new experience</b></string>
+    <string name="cretae_my_acc">Or <u>Create My Account</u></string>
+
+    <!--forgot password-->
+    <string name="text1">You have a problem?!</string>
+    <string name="text2"><b>Don’t worry!</b></string>
+    <string name="todo">TODO</string>
+
+    <!--Forgot ass-->
+    <string name="noproblem_signin">No problem?<b><u>Sign In</u></b></string>
+
+    <!--Forgot Pass otp-->
+    <string name="phone_verification">Phone Verification</string>
+    <string name="otp_code"><b>Enter your OTP code</b></string>
+    <string name="correct_number"><b>did you enter the correct number?</b></string>
+    <string name="resendcode"><u>Resend Code</u></string>
+
+    <!-- Thanks-->
+    <string name="thnks"><b>   Thank You!</b></string>
+    <string name="thanks1">Thank you for registering with Company.
+Please complete your registration and be
+activated by visiting our office.</string>
+
+    <!--Sign up-->
+    <string name="signup1">Hello, nice to meet you!</string>
+    <string name="signup2"><b>Thanks for joining us!</b></string>
+    <string name="signup3">By creating an account, you agree to our <b>Terms of Service</b> and <b>Privacy Policy</b></string>
+    <string name="Welcome">WELCOME</string>
+    <string name="go_to_profile">Go to Profile</string>
+
+    <!-- nav header-->
+    <string name="nav_header"><b>Easily find a space <br>and park your vehicles</br></b></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open_nav" />
+    <string name="close_nav" />
+    <string name="home">Home</string>
+</resources>
